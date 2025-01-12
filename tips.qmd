@@ -1,0 +1,22 @@
+---
+title: Tips for Students
+toc: false
+---
+
+These tips are adapted from [Dr. Fee's website](http://samfee.com/courses/tips-for-students/) and are intended as important general guidelines for the class.
+
+Through years of observing student performance at W&J, there are a number of practices that seem relatively common as areas of concern. So, in an effort to provide you with warnings or advice that will help you make the most of your work as a student in digital media courses, I present you with the following list:
+
+1. **Read.** I wouldn’t assign texts for these courses if they weren’t important. This goes for project descriptions sheets, handouts, the syllabus, etc. If I’m asking you to read it, it is critical that you understand the content. I am going to assume that you do.
+
+2. **Don’t wait until the last minute**. Web development is a field of production---at the end of the day, there is something to show for our work. This means you can’t fake it. You can’t really throw it all together at the end, near the deadline. The work tells. It will be obvious if you don’t put the time, attention, or effort into your work.
+
+3. **Show your work to others**. Increasingly, we are all working more independently. However, there is something that gets lost in that: feedback from others. Work together in groups and benefit from the input of others. Even if it is an independent project, get feedback from other viewers so you can see the different decodings that take place. It will make your work stronger.
+
+4. **Use the lab**. This tip also makes it easier to get opinions form others. Even if you are working independently, it provides access to feedback from other students that may have already completed the same course. It also provides a work space that is free from multiple distractions and can help you focus on your work.
+
+5. **Recognize that you don’t multitask nearly as well as you think you do**. This is something that we are all guilty of, and in fact, we even have cognitive science research that indicates we are bad at it in general. So, recognize that a lack of focus reduces the overall effectiveness of your work. We all have a lot to get done: focus, pay attention to details, and get the work completed.
+
+6. **Study and practice**. There truly is no substitute for this. Regardless of the content made available to you as a student, the real learning will only take place if you review the course materials, and practice regularly the skills you’ve been shown or pointed toward. As with any endeavor---if you want to become good at it, you’ve got to practice.
+
+I am often asked by students what they can do to improve their grade, or to do better in a course. More often than not, simply adhering to the tips above would address this issue.

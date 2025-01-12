@@ -1,0 +1,22 @@
+---
+title: "Advanced Web Development"
+subtitle: <a class="btn btn-primary" href="schedule.qmd">Schedule</a> <a class="btn btn-primary" href="assignments.md">Assignments</a> <a class="btn btn-primary" href="policies.md">Course Policies</a> <a class="btn btn-primary" href="https://sakai.washjeff.edu">Sakai</a>
+toc: false
+title-block-banner: images/hinton.jpg
+title-block-banner-color: white
+---
+
+## Course Description
+
+This semester we will master the techniques and precesses of developing advanced technical skills for generating current web content. This course focuses primarily upon the development of coding skills for generating advanced web content and hybrid apps, as well as maintaining an aptitude for creating effective designs and interfaces. In addition, this course is designed to help students develop the ability to produce an informed critique of web and mobile resources, as well as a capacity for evaluation and assessment of such materials.
+
+## Learning Goals
+
+As a student in this course, you will:
+
+- Understand the relevant and current components of advanced web development.
+- Learn how to efficiently and successfully program hybrid apps.
+- Think critically about the web and its technical underpinnings.
+- Gain the insights to effectively judge the future directions of advancement in web technologies.
+
+<small>Banner image: C.H. Hinton's "tesseracts" from his 1904 book [*The Fourth Dimension*](https://publicdomainreview.org/essay/notes-on-the-fourth-dimension/)</small>
