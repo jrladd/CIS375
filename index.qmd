@@ -6,6 +6,24 @@ title-block-banner: images/hinton.jpg
 title-block-banner-color: white
 ---
 
+::: {.card .border-primary .mb-3}
+
+:::: {.card-body}
+
+CIS 375. Washington & Jefferson College. Spring 2025.
+
+**Meeting Time: TR 12:50-2:35pm**
+
+**Dr. Ladd’s Student Drop-In Hours: MW 10am–12pm TECH 201**  
+**or email for appointment, jladd@washjeff.edu**
+
+**PAL Tutoring Hours: 7-10pm Sunday–Thursday in the CIS Lounge (TECH 217)**  
+**[Tutor bios and additional info](https://mywj.washjeff.edu/knowledgebase/cis-peer-tutoring/department/computing-and-information-studies)**
+
+::::
+
+:::
+
 ## Course Description
 
 This semester we will master the techniques and precesses of developing advanced technical skills for generating current web content. This course focuses primarily upon the development of coding skills for generating advanced web content and hybrid apps, as well as maintaining an aptitude for creating effective designs and interfaces. In addition, this course is designed to help students develop the ability to produce an informed critique of web and mobile resources, as well as a capacity for evaluation and assessment of such materials.

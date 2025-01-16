@@ -10,6 +10,7 @@ website:
       - schedule.qmd
       - assignments.md
       - policies.md
+      - resources.md
       - tips.qmd
 
 format:
