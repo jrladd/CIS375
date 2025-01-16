@@ -1,6 +1,8 @@
 [
   {
     "listing": "/assignments.html",
-    "items": []
+    "items": [
+      "/assignments/rwd.html"
+    ]
   }
 ]
