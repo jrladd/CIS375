@@ -1,6 +1,11 @@
 ---
 title: "Advanced Web Development"
-subtitle: <a class="btn btn-primary" href="schedule.qmd">Schedule</a> <a class="btn btn-primary" href="assignments.md">Assignments</a> <a class="btn btn-primary" href="policies.md">Course Policies</a> <a class="btn btn-primary" href="https://sakai.washjeff.edu">Sakai</a>
+subtitle: |
+  <a class="btn btn-primary" href="schedule.qmd">Schedule</a>
+  <a class="btn btn-primary" href="assignments.md">Assignments</a>
+  <a class="btn btn-primary" href="policies.md">Course Policies</a>
+  <a class="btn btn-primary" href="resources.md">Resources</a>
+  <a class="btn btn-primary" href="https://sakai.washjeff.edu">Sakai</a>
 toc: false
 title-block-banner: images/hinton.jpg
 title-block-banner-color: white
