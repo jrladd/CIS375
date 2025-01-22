@@ -37,3 +37,8 @@ toc: true
 - [Paletton](https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
 - [Hex Color Tool](https://www.hexcolortool.com/)
 - [Web FX Color Picker](https://www.webfx.com/web-design/color-picker/)
+
+### JavaScript
+
+- [Introduction to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction#fundamental_data_types)
+- [Understanding the DOM](https://www.digitalocean.com/community/tutorial-series/understanding-the-dom-document-object-model)
