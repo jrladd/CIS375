@@ -43,3 +43,10 @@ toc: true
 - [Introduction to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction#fundamental_data_types)
 - [Understanding the DOM](https://www.digitalocean.com/community/tutorial-series/understanding-the-dom-document-object-model)
 - [Mozilla JS Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+### Wordpress
+
+- [About Wordpress](https://wordpress.org/about/)
+- [Minimum Requirements](https://wordpress.org/about/requirements/)
+- [Learn Wordpress](https://learn.wordpress.org/)
+- [Advanced Administration Handbook (Installation Instructions)](https://developer.wordpress.org/advanced-administration/)
