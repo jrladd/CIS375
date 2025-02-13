@@ -2,7 +2,6 @@
 title:  "Content Management System Project"
 date:   2025-03-20
 show_date: false
-draft: true
 ---
 **Complete by: Thursday 20 Mar. at class time**
 
