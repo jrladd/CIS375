@@ -50,3 +50,4 @@ toc: true
 - [Minimum Requirements](https://wordpress.org/about/requirements/)
 - [Learn Wordpress](https://learn.wordpress.org/)
 - [Advanced Administration Handbook (Installation Instructions)](https://developer.wordpress.org/advanced-administration/)
+- [FileZilla](https://filezilla-project.org/)
