@@ -27,6 +27,11 @@ toc: true
 - [The State of Mobile User Experience](https://www.nngroup.com/articles/mobile-usability-update/)
 - [Thinking Like an App Designer](https://www.smashingmagazine.com/2015/04/thinking-like-an-app-designer/)
 
+### Content Development
+
+- [Creating Helpful, Reliable, People-first Content](https://developers.google.com/search/docs/fundamentals/creating-helpful-content)
+- [How Users Read on the Web](https://www.nngroup.com/articles/how-users-read-on-the-web/)
+
 ### Font and Color
 
 - [Typographic Etiquette](https://www.smashingmagazine.com/2011/08/mind-your-en-and-em-dashes-typographic-etiquette/)
@@ -51,3 +56,5 @@ toc: true
 - [Learn Wordpress](https://learn.wordpress.org/)
 - [Advanced Administration Handbook (Installation Instructions)](https://developer.wordpress.org/advanced-administration/)
 - [FileZilla](https://filezilla-project.org/)
+- [WP Beginner guide](https://www.wpbeginner.com/guides/)
+- [Elegant Themes Wordpress Tutorial](https://www.elegantthemes.com/blog/wordpress/wordpress-for-beginners)
