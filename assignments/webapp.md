@@ -1,10 +1,9 @@
 ---
 title:  "Web Application Project"
-date:   2025-03-20
+date:   2025-05-03
 show_date: false
-draft: true
 ---
-**Complete by: Thursday 20 Mar. at class time**
+**Complete by: Saturday 3 May at 5pm**
 
 For this assignment, you will create a mobile web application that works well on desktop, tablets, and smartphones. The design and function of the application is up to you: you will choose the topic and functionality of your app, as well as the framework and platform that run the application. Your app should write to a local *and* remote database and work well regardless of internet connectivity. In addition to your app, you should compose a 750-word short paper that describes your thoughts and experiences regarding the development process of working with a web application framework as opposed to hand-coding a site or using a CMS. In this document you should make sure to cite specific examples from all sites you’ve made previously; the bulk of the points for this paper will come from your examples and descriptions of why one approach was different than another.
 
