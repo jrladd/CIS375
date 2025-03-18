@@ -3,7 +3,8 @@
     "listing": "/assignments.html",
     "items": [
       "/assignments/rwd.html",
-      "/assignments/cms.html"
+      "/assignments/cms.html",
+      "/assignments/webapp.html"
     ]
   }
 ]
