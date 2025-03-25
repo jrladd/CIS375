@@ -58,3 +58,12 @@ toc: true
 - [FileZilla](https://filezilla-project.org/)
 - [WP Beginner guide](https://www.wpbeginner.com/guides/)
 - [Elegant Themes Wordpress Tutorial](https://www.elegantthemes.com/blog/wordpress/wordpress-for-beginners)
+
+## Web App
+
+- [React](https://react.dev/learn)
+- [Sample React Projects](https://www.geeksforgeeks.org/reactjs-projects/)
+- [Express.js](https://expressjs.com/)
+- [Node.js](https://nodejs.org/en/)
+- [SQLite](https://www.sqlite.org/index.html)
+- [Using Node.js Selector](https://www.a2hosting.com/kb/cpanel/cpanel-software/create-application-with-nodejs-selector/)
