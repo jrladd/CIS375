@@ -67,3 +67,4 @@ toc: true
 - [Node.js](https://nodejs.org/en/)
 - [SQLite](https://www.sqlite.org/index.html)
 - [Using Node.js Selector](https://www.a2hosting.com/kb/cpanel/cpanel-software/create-application-with-nodejs-selector/)
+- [Deploy React app to web host](https://dev.to/crishanks/deploy-host-your-react-app-with-cpanel-in-under-5-minutes-4mf6)
