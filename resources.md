@@ -7,7 +7,7 @@ toc: true
 
 - [Dr. Fee's CIS 275 Resources](https://samfee.com/courses/cis-275-introduction-to-web-development/)
 
-### HTML & CSS
+## HTML & CSS
 
 - [html5please](http://html5please.com/)
 - [Mozilla's Learn Web Development](https://developer.mozilla.org/en-US/docs/Learn_web_development)
@@ -49,7 +49,7 @@ toc: true
 - [Understanding the DOM](https://www.digitalocean.com/community/tutorial-series/understanding-the-dom-document-object-model)
 - [Mozilla JS Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-### Wordpress
+## Wordpress
 
 - [About Wordpress](https://wordpress.org/about/)
 - [Minimum Requirements](https://wordpress.org/about/requirements/)
@@ -63,6 +63,7 @@ toc: true
 
 - [React](https://react.dev/learn)
 - [Sample React Projects](https://www.geeksforgeeks.org/reactjs-projects/)
+- [Wireframing](https://www.wix.com/studio/blog/app-wireframe)
 - [Express.js](https://expressjs.com/)
 - [Node.js](https://nodejs.org/en/)
 - [SQLite](https://www.sqlite.org/index.html)
