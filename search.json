@@ -53,21 +53,35 @@
     "href": "resources.html",
     "title": "Resources",
     "section": "",
-    "text": "Dr. Fee’s CIS 275 Resources\n\n\n\n\nhtml5please\nMozilla’s Learn Web Development\nHTML Validator\nWeb Style Guide, 3rd ed.\nCaniuse\n\n\n\n\n\nAgile Vision Statement\nHow People Read Online\nUX Rules from Eye-Tracking\nCSS for Text on Images\nThe Cascade\nGuide to Image Formats\nResponsive Web Design\nThe State of Mobile User Experience\nThinking Like an App Designer\n\n\n\n\n\nCreating Helpful, Reliable, People-first Content\nHow Users Read on the Web\n\n\n\n\n\nTypographic Etiquette\nButterick’s Practical Typography\nLorem Ipsum Generator\nGridlover\nPicular\nPaletton\nHex Color Tool\nWeb FX Color Picker\n\n\n\n\n\nIntroduction to the DOM\nUnderstanding the DOM\nMozilla JS Reference\n\n\n\n\n\nAbout Wordpress\nMinimum Requirements\nLearn Wordpress\nAdvanced Administration Handbook (Installation Instructions)\nFileZilla\nWP Beginner guide\nElegant Themes Wordpress Tutorial"
+    "text": "Dr. Fee’s CIS 275 Resources"
   },
   {
     "objectID": "resources.html#shared-resources-for-this-class",
     "href": "resources.html#shared-resources-for-this-class",
     "title": "Resources",
     "section": "",
-    "text": "Dr. Fee’s CIS 275 Resources\n\n\n\n\nhtml5please\nMozilla’s Learn Web Development\nHTML Validator\nWeb Style Guide, 3rd ed.\nCaniuse\n\n\n\n\n\nAgile Vision Statement\nHow People Read Online\nUX Rules from Eye-Tracking\nCSS for Text on Images\nThe Cascade\nGuide to Image Formats\nResponsive Web Design\nThe State of Mobile User Experience\nThinking Like an App Designer\n\n\n\n\n\nCreating Helpful, Reliable, People-first Content\nHow Users Read on the Web\n\n\n\n\n\nTypographic Etiquette\nButterick’s Practical Typography\nLorem Ipsum Generator\nGridlover\nPicular\nPaletton\nHex Color Tool\nWeb FX Color Picker\n\n\n\n\n\nIntroduction to the DOM\nUnderstanding the DOM\nMozilla JS Reference\n\n\n\n\n\nAbout Wordpress\nMinimum Requirements\nLearn Wordpress\nAdvanced Administration Handbook (Installation Instructions)\nFileZilla\nWP Beginner guide\nElegant Themes Wordpress Tutorial"
+    "text": "Dr. Fee’s CIS 275 Resources"
+  },
+  {
+    "objectID": "resources.html#html-css",
+    "href": "resources.html#html-css",
+    "title": "Resources",
+    "section": "HTML & CSS",
+    "text": "HTML & CSS\n\nhtml5please\nMozilla’s Learn Web Development\nHTML Validator\nWeb Style Guide, 3rd ed.\nCaniuse\n\n\nDesign Principles\n\nAgile Vision Statement\nHow People Read Online\nUX Rules from Eye-Tracking\nCSS for Text on Images\nThe Cascade\nGuide to Image Formats\nResponsive Web Design\nThe State of Mobile User Experience\nThinking Like an App Designer\n\n\n\nContent Development\n\nCreating Helpful, Reliable, People-first Content\nHow Users Read on the Web\n\n\n\nFont and Color\n\nTypographic Etiquette\nButterick’s Practical Typography\nLorem Ipsum Generator\nGridlover\nPicular\nPaletton\nHex Color Tool\nWeb FX Color Picker\n\n\n\nJavaScript\n\nIntroduction to the DOM\nUnderstanding the DOM\nMozilla JS Reference"
+  },
+  {
+    "objectID": "resources.html#wordpress",
+    "href": "resources.html#wordpress",
+    "title": "Resources",
+    "section": "Wordpress",
+    "text": "Wordpress\n\nAbout Wordpress\nMinimum Requirements\nLearn Wordpress\nAdvanced Administration Handbook (Installation Instructions)\nFileZilla\nWP Beginner guide\nElegant Themes Wordpress Tutorial"
   },
   {
     "objectID": "resources.html#web-app",
     "href": "resources.html#web-app",
     "title": "Resources",
     "section": "Web App",
-    "text": "Web App\n\nReact\nSample React Projects\nExpress.js\nNode.js\nSQLite\nUsing Node.js Selector\nDeploy React app to web host"
+    "text": "Web App\n\nReact\nSample React Projects\nWireframing\nExpress.js\nNode.js\nSQLite\nUsing Node.js Selector\nDeploy React app to web host"
   },
   {
     "objectID": "assignments/rwd.html",
