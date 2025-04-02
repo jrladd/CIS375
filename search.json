@@ -81,7 +81,7 @@
     "href": "resources.html#web-app",
     "title": "Resources",
     "section": "Web App",
-    "text": "Web App\n\nReact\nSample React Projects\nWireframing\nExpress.js\nNode.js\nSQLite\nUsing Node.js Selector\nDeploy React app to web host"
+    "text": "Web App\n\nReact\nSample React Projects\nWireframing\nExpress.js\nNode.js\nSQLite\nSQLite in Express\nDeploy React app to web host\nGithub\nRender\nRender Web Services\nDeploy a Backend app to Render"
   },
   {
     "objectID": "assignments/rwd.html",
