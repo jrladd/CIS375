@@ -73,3 +73,5 @@ toc: true
 - [Render](https://render.com/)
 - [Render Web Services](https://render.com/docs/web-services#deploy-from-github--gitlab--bitbucket)
 - [Deploy a Backend app to Render](https://medium.com/@sazzadrn17/how-to-deploy-backend-node-js-express-js-with-sqlite-free-in-render-f3b048dca1fa)
+- [Using Fetch in JavaScript](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch#handling_the_response)
+- [Allow CORS in Express](https://www.geeksforgeeks.org/how-to-allow-cors-in-express/)
