@@ -75,3 +75,4 @@ toc: true
 - [Deploy a Backend app to Render](https://medium.com/@sazzadrn17/how-to-deploy-backend-node-js-express-js-with-sqlite-free-in-render-f3b048dca1fa)
 - [Using Fetch in JavaScript](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch#handling_the_response)
 - [Allow CORS in Express](https://www.geeksforgeeks.org/how-to-allow-cors-in-express/)
+- [REST API with Express.js and SQLite](https://medium.com/@sahni_hargun/rest-api-with-node-js-express-js-and-sqlite3-6e55f8580151)
