@@ -20,3 +20,20 @@ Your grade for this assignment will be based upon the following criteria:
 : {.striped .hover}
 
 Use your web server space to host your app and send me the link for the app you want me to grade (or post the link to the Sakai assignment). You should also zip and submit the code for the frontend app to Sakai, and send the link to your Github repository that contains the backend app code. I will view the app on desktop, tablet, and smartphone. Upload your short paper directly to Sakai as a PDF. I will grade whatever is available at the link you send me, but I will not accept multiple emails from you. This is worth getting right the first time!
+
+## Web App Checklist
+
+(For reference as you complete your project)
+
+Did you...
+
+- Set up SQLite database and insert all necessary data?
+- Write routes in Express app for desired API endpoints (GET and POST requests)?
+- Design frontend app using React components?
+- Incorporate `fetch` requests into relevant components?
+- Verify all data transfer is working correctly?
+- Create homescreen icon for your web app?
+- Test app on phone, tablet, and desktop?
+- Test app on multiple browsers?
+- Deploy latest application to relevant hosts (Github and your web host)?
+- Complete your essay on the development process?
